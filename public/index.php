@@ -1,5 +1,5 @@
 <?php
-
+//die ("test");
 use Illuminate\Foundation\Application;
 use Illuminate\Http\Request;
 
