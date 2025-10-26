@@ -1,5 +1,5 @@
 <?php
-
+// die("Web server is not configured to run Laravel application directly. Please configure your web server to point to the 'public' directory.");
 use Illuminate\Foundation\Application;
 use Illuminate\Http\Request;
 
