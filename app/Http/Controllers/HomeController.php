@@ -14,4 +14,8 @@ class HomeController extends Controller
     {
         return view('admin');
     }
+    function service()
+    {
+        return view('service');
+    }
 }

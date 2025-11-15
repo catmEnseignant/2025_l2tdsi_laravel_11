@@ -1,6 +1,4 @@
-@extends("layouts/admin/master")
-@section("content")
-              <main class="app-main">
+      <main class="app-main">
         <!--begin::App Content Header-->
         <div class="app-content-header">
           <!--begin::Container-->
@@ -152,4 +150,3 @@
         </div>
         <!--end::App Content-->
       </main>
-@endsection
