@@ -2,10 +2,12 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
-
 class AccueilController extends Controller{
     function index(){
         return view('accueil');
+    }
+
+    function adm() {
+        return view('admin');
     }
 }

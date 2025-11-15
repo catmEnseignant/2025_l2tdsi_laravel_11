@@ -9,3 +9,4 @@ Route::get('/', function () {
 });
 
 Route::get('/Mamadou/Tine', [AccueilController::class, 'index']);
+Route::get('/admin', [AccueilController::class, 'adm']);
