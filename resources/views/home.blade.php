@@ -124,7 +124,7 @@
       <div class="container-fluid p-0">
         <div class="hero-wrapper">
           <div class="hero-image">
-            <img src="{{asset("assets/img/health/showcase-1.webp")}}" alt="Advanced Healthcare" class="img-fluid">
+            <img src="assets/img/health/showcase-1.webp" alt="Advanced Healthcare" class="img-fluid">
           </div>
 
           <div class="hero-content">
@@ -217,7 +217,7 @@
         <div class="row gy-5 align-items-center">
           <div class="col-lg-6" data-aos="fade-right" data-aos-delay="200">
             <div class="about-image">
-              <img src="{{asset("assets/img/health/facilities-1.webp")}}" alt="Modern Healthcare Facility" class="img-fluid rounded-3 mb-4">
+              <img src="assets/img/health/facilities-1.webp" alt="Modern Healthcare Facility" class="img-fluid rounded-3 mb-4">
               <div class="experience-badge">
                 <span class="years">25+</span>
                 <span class="text">Years of Excellence</span>
@@ -269,16 +269,16 @@
           <div class="col-12">
             <div class="certifications">
               <div class="certification-item" data-aos="zoom-in" data-aos-delay="700">
-                <img src="{{asset("assets/img/clients/clients-1.webp")}}" alt="Certification">
+                <img src="assets/img/clients/clients-1.webp" alt="Certification">
               </div>
               <div class="certification-item" data-aos="zoom-in" data-aos-delay="800">
-                <img src="{{asset("assets/img/clients/clients-2.webp")}}" alt="Certification">
+                <img src="assets/img/clients/clients-2.webp" alt="Certification">
               </div>
               <div class="certification-item" data-aos="zoom-in" data-aos-delay="900">
-                <img src="{{asset("assets/img/clients/clients-3.webp")}}" alt="Certification">
+                <img src="assets/img/clients/clients-3.webp" alt="Certification">
               </div>
               <div class="certification-item" data-aos="zoom-in" data-aos-delay="1000">
-                <img src="{{asset("assets/img/clients/clients-4.webp")}}" alt="Certification">
+                <img src="assets/img/clients/clients-4.webp" alt="Certification">
               </div>
             </div>
           </div>
@@ -304,7 +304,7 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="department-card">
               <div class="department-image">
-                <img src="{{asset("assets/img/health/cardiology-3.webp")}}" alt="Cardiology Department" class="img-fluid">
+                <img src="assets/img/health/cardiology-3.webp" alt="Cardiology Department" class="img-fluid">
               </div>
               <div class="department-content">
                 <div class="department-icon">
@@ -323,7 +323,7 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div class="department-card">
               <div class="department-image">
-                <img src="{{asset("assets/img/health/neurology-2.webp")}}" alt="Neurology Department" class="img-fluid">
+                <img src="assets/img/health/neurology-2.webp" alt="Neurology Department" class="img-fluid">
               </div>
               <div class="department-content">
                 <div class="department-icon">
@@ -335,14 +335,14 @@
                   <span>Learn More</span>
                   <i class="fas fa-arrow-right"></i>
                 </a>
-              </div>    
+              </div>
             </div>
-          </div><!-- End Department Card -->  
+          </div><!-- End Department Card -->
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
             <div class="department-card">
               <div class="department-image">
-                <img src="{{asset("assets/img/health/orthopedics-4.webp")}}" alt="Orthopedics Department" class="img-fluid">
+                <img src="assets/img/health/orthopedics-4.webp" alt="Orthopedics Department" class="img-fluid">
               </div>
               <div class="department-content">
                 <div class="department-icon">
@@ -355,13 +355,13 @@
                   <i class="fas fa-arrow-right"></i>
                 </a>
               </div>
-            </div>    
-          </div><!-- End Department Card -->  
+            </div>
+          </div><!-- End Department Card -->
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="department-card">
               <div class="department-image">
-                <img src="{{asset("assets/img/health/pediatrics-3.webp")}}" alt="Pediatrics Department" class="img-fluid">
+                <img src="assets/img/health/pediatrics-3.webp" alt="Pediatrics Department" class="img-fluid">
               </div>
               <div class="department-content">
                 <div class="department-icon">
@@ -380,7 +380,7 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div class="department-card">
               <div class="department-image">
-                <img src="{{asset("assets/img/health/oncology-4.webp")}}" alt="Oncology Department" class="img-fluid">
+                <img src="assets/img/health/oncology-4.webp" alt="Oncology Department" class="img-fluid">
               </div>
               <div class="department-content">
                 <div class="department-icon">
@@ -399,7 +399,7 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
             <div class="department-card">
               <div class="department-image">
-                <img src="{{asset("assets/img/health/emergency-2.webp")}}" alt="Emergency Department" class="img-fluid">
+                <img src="assets/img/health/emergency-2.webp" alt="Emergency Department" class="img-fluid">
               </div>
               <div class="department-content">
                 <div class="department-icon">
@@ -571,7 +571,7 @@
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="doctor-card">
               <div class="doctor-image">
-                <img src="{{asset("assets/img/health/staff-3.webp")}}" alt="Dr. Sarah Mitchell" class="img-fluid">
+                <img src="assets/img/health/staff-3.webp" alt="Dr. Sarah Mitchell" class="img-fluid">
                 <div class="availability-badge online">Available</div>
               </div>
               <div class="doctor-info">
@@ -597,7 +597,7 @@
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="doctor-card">
               <div class="doctor-image">
-                <img src="{{asset("assets/img/health/staff-7.webp")}}}" alt="Dr. Michael Rodriguez" class="img-fluid">
+                <img src="assets/img/health/staff-7.webp" alt="Dr. Michael Rodriguez" class="img-fluid">
                 <div class="availability-badge busy">In Surgery</div>
               </div>
               <div class="doctor-info">
@@ -623,7 +623,7 @@
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="doctor-card">
               <div class="doctor-image">
-                <img src="{{asset("assets/img/health/staff-1.webp")}}" alt="Dr. Emily Chen" class="img-fluid">
+                <img src="assets/img/health/staff-1.webp" alt="Dr. Emily Chen" class="img-fluid">
                 <div class="availability-badge online">Available</div>
               </div>
               <div class="doctor-info">
@@ -649,7 +649,7 @@
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="doctor-card">
               <div class="doctor-image">
-                <img src="{{asset("assets/img/health/staff-9.webp")}}" alt="Dr. James Thompson" class="img-fluid">
+                <img src="assets/img/health/staff-9.webp" alt="Dr. James Thompson" class="img-fluid">
                 <div class="availability-badge offline">Next: Tomorrow 9AM</div>
               </div>
               <div class="doctor-info">
@@ -675,7 +675,7 @@
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="doctor-card">
               <div class="doctor-image">
-                <img src="{{asset("assets/img/health/staff-5.webp")}}" alt="Dr. Lisa Anderson" class="img-fluid">
+                <img src="assets/img/health/staff-5.webp" alt="Dr. Lisa Anderson" class="img-fluid">
                 <div class="availability-badge online">Available</div>
               </div>
               <div class="doctor-info">
@@ -701,7 +701,7 @@
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="doctor-card">
               <div class="doctor-image">
-                <img src="{{asset("assets/img/health/staff-12.webp")}}" alt="Dr. Robert Kim" class="img-fluid">
+                <img src="assets/img/health/staff-12.webp" alt="Dr. Robert Kim" class="img-fluid">
                 <div class="availability-badge online">Available</div>
               </div>
               <div class="doctor-info">
