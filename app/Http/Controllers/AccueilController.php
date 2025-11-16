@@ -10,4 +10,8 @@ class AccueilController extends Controller{
     function adm() {
         return view('admin');
     }
+
+    function srv() {
+        return view('Services');
+    }
 }
