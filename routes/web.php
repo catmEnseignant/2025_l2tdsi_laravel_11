@@ -8,4 +8,5 @@ Route::get('/', function () {
 });
 
 Route::get('/', [AccueilController::class, "index"]);
-Route::get('/tester/admin', [AccueilController::class, "admin"]);
+Route::get('/admin', [AccueilController::class, "admin"]);
+
