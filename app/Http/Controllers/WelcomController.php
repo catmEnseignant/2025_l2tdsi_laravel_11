@@ -12,4 +12,7 @@ function index () {
 function admin () {
     return view ("admin");
 } 
+function service () {
+    return view ("service");
+} 
 }

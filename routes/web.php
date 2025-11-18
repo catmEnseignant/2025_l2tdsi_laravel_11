@@ -1,8 +1,9 @@
 <?php
 
-use App\Http\Controllers\WelcomController;
+use App\Http\Controllers\Welcomcontroller;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/test/index',[WelcomController::class , "index"]);
 
-Route::get('/tester/admin',[WelcomController::class , "admin"]);
+Route::get('/admin',[WelcomController::class , "admin"]);
+Route::get('/service',[WelcomController::class , "service"]);
