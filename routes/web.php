@@ -1,17 +1,12 @@
+
 <?php
 
-use App\Http\Controllers\WelcomController;
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\AcceuilController;
-// Route::get('/', function () {
-    
-//     return "A'salaamou haleykoum";
-// });
-Route::get('/Moussa/Gueye', [WelcomController::class, 'index']);
+use App\Http\Controllers\WelcomController;
 
-//Route::get('/acceuil',[AcceuilController::class, 'index']);
-
-// Route :: get('/blog' , function(Request $request) {
-//         return "bonjour";
-// });
-
+Route::get('/index', [WelcomController::class, 'index']
+);
+Route::get('/admin', [WelcomController::class, 'admin']
+)->name('admin');
+Route::get('/service', [WelcomController::class, 'service']
+)->name('service');

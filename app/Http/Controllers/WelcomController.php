@@ -6,8 +6,13 @@ use Illuminate\Http\Request;
 
 class WelcomController extends Controller
 {
-    function index(){
-        return view("Welcome");
+    public function index(){
+        return view('index');
     }
-    //
+    public function admin(){
+        return view('admin');
+    }
+    public function service(){
+        return view('service');
+    }
 }
