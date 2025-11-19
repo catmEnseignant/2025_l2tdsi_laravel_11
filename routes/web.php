@@ -1,9 +1,9 @@
 <?php
 
-use App\Http\Controllers\WelcomController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\MaliController;
 
-Route::get('/', [WelcomController::class, 'index']);
-
-Route::get('/admin', [WelcomController::class, 'admin']);
-Route::get('/service', [WelcomController::class, 'service']);
+Route::get('/diakhala', [MaliController::class, 'index']);
+Route::get('/home', [MaliController::class, 'test']);
+Route::get('/admin', [MaliController::class, 'admin']);
+Route::get('/services', [MaliController::class, 'service']);
