@@ -6,4 +6,5 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/',[welcomController::class,'index']);
 Route::get('/tester/index',[welcomController::class,'index1']);
-Route::get('/tester/admin',[welcomController::class,'admin']);
+Route::get('/admin',[welcomController::class,'admin']);
+Route::get('/services',[welcomController::class,'services']);
