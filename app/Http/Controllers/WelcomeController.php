@@ -15,4 +15,9 @@ class WelcomeController extends Controller
     {
         return view('admin');
     }
+
+    public function service()
+    {
+        return view('service');
+    }
 }
