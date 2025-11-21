@@ -11,7 +11,10 @@ class WelcomController extends Controller
     }
 
     function admin(){
-        return view('admin');
+        return view('layouts/master');
+    }
+    function service(){
+       return view('services');
     }
 
 }
